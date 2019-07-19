@@ -1,0 +1,7 @@
+*.pickle
+*.npz
+**/__pycache__
+**/model
+**/parsed_dataset
+**/raw_dataset
+fastText-0.9.1/
